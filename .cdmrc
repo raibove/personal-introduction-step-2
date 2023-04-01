@@ -1,0 +1,6 @@
+tabs: ['src/Root.tsx']
+terminal-one: |
+    npm install
+    npm start
+baseImage: html
+defaultView: terminal-editor-browser
